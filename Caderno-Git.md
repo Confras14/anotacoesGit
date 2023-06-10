@@ -99,7 +99,11 @@ Termos que são usados muito frequentemente neste assunto.
 <h3>COMANDOS DO GIT BASH</h3>
 
 `cd 'nome da pasta'` - entra na pasta com esse nome.
+
 `cd ../` - volta uma pasta.
+
 `list` - mostra o que tem dentro da pasta.
+
 `mkdir 'nome da pasta'` - cria uma pasta com esse nome.
+
 `clear` - dar um clear no cmd.
