@@ -43,7 +43,7 @@ Termos que são usados muito frequentemente neste assunto.
 
 `git add "nome do arquivo"` ou `-A` - adicionar arquivos não reconhecidos pelo git em reconhecidos.
 
-`git restore --staged "nome do arquivo"` ou `-A` - Reverte o git add.
+`git reset` - Reverte o git add.
 
 `git commit -m "mensagem"` - fazer o commit com sua mensagem.
 
