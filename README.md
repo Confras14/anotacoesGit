@@ -1,3 +1,3 @@
-<h1>Sobre Meu Caderno</h1>
+# Repositório para anotar sobre Git
 
-Este vai ser o lugar onde vou guardar minhas anotações e observasões de cursos que estou fazendo no momento
+Este vai ser o lugar onde vou guardar minhas anotações e observasões sobre git.
