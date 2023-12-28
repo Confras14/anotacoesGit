@@ -1,4 +1,4 @@
-<h1>Caderno Git</h1>
+<h1>Anotações</h1>
 <h2>TERMOS</h2>
 
 Termos que são usados muito frequentemente neste assunto.
