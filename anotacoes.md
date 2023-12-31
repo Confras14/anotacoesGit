@@ -95,7 +95,7 @@ Termos que são usados muito frequentemente neste assunto.
 
 `git clone "link do repositório remoto"` - clona o repositório
 
-`git pull origin master --allow-unrelated-histories` - para mesclar branch's
+`git pull origin main --allow-unrelated-histories` - para trazer o da web para o local mesmo com históricos distintos.
 
 
 <h3>COMANDOS DO GIT BASH</h3>
